@@ -17,4 +17,4 @@ Python 2.7, Tensorflow 1.6.0
 Our code is based on the [THUMT](https://github.com/thumt/THUMT). After processing the WMT 14 EN-DE corpus, simply run
 ```bash run.sh```
 
-For more data processing and model evaluation scripts details, please go to [THUMT](https://github.com/thumt/THUMT) for more details.
+For more data processing and model evaluation details, please go to [THUMT](https://github.com/thumt/THUMT) for more details.
